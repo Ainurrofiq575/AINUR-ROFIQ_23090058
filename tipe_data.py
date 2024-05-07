@@ -1,0 +1,2 @@
+buah = "apel"
+print ("apel")
